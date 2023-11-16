@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sCxsM6K7SOqFvMXmNp0jiTPbwyaGxTFsrfQnlMz/hYsafNpswzcru4v81deX6GLl9SYAVw6JuUmbNZFRg/Tfkg==",
+  "dgSpecHash": "5bQozlLdo6hbPXawwHFGSDOR2NqeElB1o6k+LW5cxwbiWms7vXh3I3HRffj+OBMYweKjMTFEgVd1Fw/yxLhh6Q==",
   "success": true,
-  "projectFilePath": "/Users/dominikaberg/Desktop/Labb3 c#/Labb3 c#.csproj",
+  "projectFilePath": "/Users/dominikaberg/Desktop/Labb3 c#/Gastbok/Labb3 c#.csproj",
   "expectedPackageFiles": [
     "/Users/dominikaberg/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],

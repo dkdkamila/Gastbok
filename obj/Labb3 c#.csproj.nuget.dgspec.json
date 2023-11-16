@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dominikaberg/Desktop/Labb3 c#/Labb3 c#.csproj": {}
+    "/Users/dominikaberg/Desktop/Labb3 c#/Gastbok/Labb3 c#.csproj": {}
   },
   "projects": {
-    "/Users/dominikaberg/Desktop/Labb3 c#/Labb3 c#.csproj": {
+    "/Users/dominikaberg/Desktop/Labb3 c#/Gastbok/Labb3 c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dominikaberg/Desktop/Labb3 c#/Labb3 c#.csproj",
+        "projectUniqueName": "/Users/dominikaberg/Desktop/Labb3 c#/Gastbok/Labb3 c#.csproj",
         "projectName": "Labb3 c#",
-        "projectPath": "/Users/dominikaberg/Desktop/Labb3 c#/Labb3 c#.csproj",
+        "projectPath": "/Users/dominikaberg/Desktop/Labb3 c#/Gastbok/Labb3 c#.csproj",
         "packagesPath": "/Users/dominikaberg/.nuget/packages/",
-        "outputPath": "/Users/dominikaberg/Desktop/Labb3 c#/obj/",
+        "outputPath": "/Users/dominikaberg/Desktop/Labb3 c#/Gastbok/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dominikaberg/.nuget/NuGet/NuGet.Config"
