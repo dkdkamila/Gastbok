@@ -1,0 +1,17 @@
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.AssemblyInfoInputs.cache
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.AssemblyInfo.cs
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.csproj.CoreCompileInputs.cache
+/Users/dominikaberg/Desktop/Labb3 c#/bin/Debug/net7.0/Labb3 c#
+/Users/dominikaberg/Desktop/Labb3 c#/bin/Debug/net7.0/Labb3 c#.deps.json
+/Users/dominikaberg/Desktop/Labb3 c#/bin/Debug/net7.0/Labb3 c#.runtimeconfig.json
+/Users/dominikaberg/Desktop/Labb3 c#/bin/Debug/net7.0/Labb3 c#.dll
+/Users/dominikaberg/Desktop/Labb3 c#/bin/Debug/net7.0/Labb3 c#.pdb
+/Users/dominikaberg/Desktop/Labb3 c#/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.csproj.AssemblyReference.cache
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.csproj.CopyComplete
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.dll
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/refint/Labb3 c#.dll
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.pdb
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/Labb3 c#.genruntimeconfig.cache
+/Users/dominikaberg/Desktop/Labb3 c#/obj/Debug/net7.0/ref/Labb3 c#.dll
